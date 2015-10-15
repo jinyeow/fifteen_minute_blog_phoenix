@@ -1,5 +1,10 @@
 # FifteenMinuteBlogPhoenix
 
+## fifteen_minute_blog_phoenix
+
+Very quick blog written using Phoenix + Elixir. Basically a quick walkthrough
+by 'http://codetunes.com/2015/phoenix-blog/' to familiarise myself Phoenix.
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`
